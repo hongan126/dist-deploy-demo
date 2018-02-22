@@ -4,5 +4,8 @@
     "/api/": {
       "origin": "https://ftel-notes-heroku.herokuapp.com/"
     }
+  },
+  "routes": {
+    "/**": "index.html"
   }
 }
