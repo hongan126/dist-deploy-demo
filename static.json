@@ -2,7 +2,7 @@
   "root": "dist/",
   "proxies": {
     "/api/": {
-      "origin": "https://ftel-notes-heroku.herokuapp.com/"
+      "origin": "https://ftelnotesapi.meteorapp.com"
     }
   },
   "routes": {
